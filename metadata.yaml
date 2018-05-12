@@ -1,0 +1,29 @@
+_repo: '----_23915'
+_version: 0.1.0
+alternative_title: Qiuranke zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Du, Guangting
+    alias: 杜光庭
+    birthdate: 850
+    deathdate: 933
+    gutenberg_agent_id: '26127'
+    url: http://www.gutenberg.org/2009/agents/26127
+    wikipedia: http://zh.wikipedia.org/wiki/%E6%9D%9C%E5%85%89%E5%BA%AD
+description: ''
+gutenberg_issued: '2007-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23915'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Chinese'
+- !lcc 'AC'
+title: 虬髯客傳
+url: http://www.gutenberg.org/ebooks/23915
